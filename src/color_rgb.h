@@ -2,7 +2,7 @@
  *
  * color_rgb.h -- A utility class for storing 32-bit BGRX colors.
  *
- * Copyright (C) 2009 Micah Dowty
+ * Copyright (C) 2009 Micah Elizabeth Scott
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal

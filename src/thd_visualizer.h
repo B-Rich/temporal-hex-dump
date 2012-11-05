@@ -5,7 +5,7 @@
  *                    can be as simple as printing a word in hex, or as complex
  *                    as an interactive disassembler.
  *
- * Copyright (C) 2009 Micah Dowty
+ * Copyright (C) 2009 Micah Elizabeth Scott
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal

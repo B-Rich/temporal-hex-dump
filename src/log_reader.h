@@ -4,7 +4,7 @@
  *                 To add new file formats, this is the only object that should need
  *                 to change at all.
  *
- * Copyright (C) 2009 Micah Dowty
+ * Copyright (C) 2009 Micah Elizabeth Scott
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
